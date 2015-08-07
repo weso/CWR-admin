@@ -1,0 +1,12 @@
+# Flask
+Flask==0.10.1
+Flask-RESTful==0.3.2
+
+# Requests
+requests==2.7.0
+
+# Enums
+Enum==0.4.4
+
+# Compatibility libraries
+ordereddict==1.1
